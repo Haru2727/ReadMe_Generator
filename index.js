@@ -79,7 +79,7 @@ const init = () => {
     questions()
         .then(response => {
             const readme = generateREADME(response);
-            writeFileAsync("readMe.md", readme)
+            writeFileAsync("readMeDemo.md", readme)
                 .then(() => console.log("Success!"))
                 .catch(error => console.log(error));
         })
