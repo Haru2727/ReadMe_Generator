@@ -65,7 +65,7 @@ ${renderLicenseBadge(badges)}
 
     If you have any questions please feel free to email me or contact me on Github.  My email is ${email}, my github username is ${github}, follow the links below for them.
 
-[Email](<a href=${email}></a>)
+[Email](<a href="mailto:${email}"></a>)
 [Github](https://github.com/${github})
     `
 }
