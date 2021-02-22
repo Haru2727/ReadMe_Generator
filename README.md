@@ -47,10 +47,13 @@
 
     If you have any questions please feel free to email me or contact me on Github.  My email is saeediarash84@gmail.com, my github username is Haru2727, follow the links below for them.
 
+## Links
+
 <a href="mailto:saeediarash84@gmail.com">Email</a>
 [Github](https://github.com/Haru2727)
 [Demo](https://drive.google.com/file/d/1qhRlYPNeMeSzBpgXfbwRHbw4JJgHSZYM/view)
 
+## Screenshots
 
 ![Screenshot](./screenshots/top.png?raw=true "Screenshot Top Half")
 ![Screenshot](./screenshots/bottom.png?raw=true "Bottom half")
